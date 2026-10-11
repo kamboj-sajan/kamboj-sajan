@@ -26,7 +26,7 @@ Full-stack developer and competitive programmer. I build AI-powered web apps wit
 ## 🏆 Achievements
 
 - **LeetCode Knight** (peak 2041, top 3% globally) · 750+ problems solved
-- **Codeforces Specialist** (peak 1410) · **CodeChef** max rating 1626
+- **Codeforces Specialist** (peak 1436) · **CodeChef** max rating 1626
 - Selected in the **Top 700** for the **Ericsson Edge Academia Program 2.0** (5G, AI, IoT, Telecom)
 - **National Finalist**, TVS Credit E.P.I.C 7.0 Challenge
 - **Google Cloud Gen AI Academy APAC 2026**: built and deployed AI agents on Cloud Run
