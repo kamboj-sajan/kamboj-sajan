@@ -7,7 +7,7 @@ Full-stack developer and competitive programmer. I build AI-powered web apps wit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight_2041-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR-LEETCODE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1410-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR-CODEFORCES)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1436-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR-CODEFORCES)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1626-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR-CODECHEF)
 
 ---
