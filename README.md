@@ -7,7 +7,7 @@ Full-stack developer and competitive programmer. I build AI-powered web apps wit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight_2041-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR-LEETCODE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1436-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR-CODEFORCES)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1437-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR-CODEFORCES)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1626-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR-CODECHEF)
 
 ---
@@ -26,7 +26,7 @@ Full-stack developer and competitive programmer. I build AI-powered web apps wit
 ## 🏆 Achievements
 
 - **LeetCode Knight** (peak 2041, top 3% globally) · 750+ problems solved
-- **Codeforces Specialist** (peak 1436) · **CodeChef** max rating 1626
+- **Codeforces Specialist** (peak 1437) · **CodeChef** max rating 1626
 - Selected in the **Top 700** for the **Ericsson Edge Academia Program 2.0** (5G, AI, IoT, Telecom)
 - **National Finalist**, TVS Credit E.P.I.C 7.0 Challenge
 - **Google Cloud Gen AI Academy APAC 2026**: built and deployed AI agents on Cloud Run
