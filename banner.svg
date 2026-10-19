@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" font-family="'Courier New', monospace">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1026"/>
+      <stop offset="1" stop-color="#16204a"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1f2b5e" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <rect width="1200" height="360" fill="url(#grid)" opacity="0.6"/>
+
+  <!-- PCB traces on the left -->
+  <g stroke="#2ee59d" stroke-width="3" fill="none" opacity="0.85">
+    <path d="M0 80 H120 L150 109 H258"/>
+    <path d="M0 144 H90 L120 179 H258"/>
+    <path d="M0 240 H140 L170 214 H258"/>
+    <path d="M0 290 H200 L230 249 H258"/>
+  </g>
+  <g fill="#2ee59d">
+    <circle cx="256" cy="109" r="5"/><circle cx="256" cy="179" r="5"/>
+    <circle cx="256" cy="214" r="5"/><circle cx="256" cy="249" r="5"/>
+  </g>
+  <!-- signal pulse travelling along a trace -->
+  <circle r="5" fill="#ffffff">
+    <animateMotion dur="2.4s" repeatCount="indefinite" path="M0 80 H120 L150 109 H258"/>
+  </circle>
+  <circle r="5" fill="#ffffff">
+    <animateMotion dur="3.1s" repeatCount="indefinite" path="M0 240 H140 L170 214 H258"/>
+  </circle>
+
+  <!-- IC chip -->
+  <rect x="270" y="90" width="150" height="190" rx="8" fill="#1a1a1a" stroke="#3a3a3a" stroke-width="3"/>
+  <g fill="#c9c9c9">
+    <rect x="258" y="105" width="12" height="8"/><rect x="258" y="140" width="12" height="8"/>
+    <rect x="258" y="175" width="12" height="8"/><rect x="258" y="210" width="12" height="8"/>
+    <rect x="258" y="245" width="12" height="8"/>
+    <rect x="420" y="105" width="12" height="8"/><rect x="420" y="140" width="12" height="8"/>
+    <rect x="420" y="175" width="12" height="8"/><rect x="420" y="210" width="12" height="8"/>
+    <rect x="420" y="245" width="12" height="8"/>
+  </g>
+  <circle cx="290" cy="110" r="5" fill="#3a3a3a"/>
+  <text x="345" y="180" fill="#8f8f8f" font-size="18" text-anchor="middle">ECE</text>
+  <text x="345" y="205" fill="#8f8f8f" font-size="14" text-anchor="middle">IoT · 2027</text>
+
+  <!-- trace from chip to terminal -->
+  <path d="M432 179 H520" stroke="#2ee59d" stroke-width="3"/>
+
+  <!-- terminal window -->
+  <rect x="520" y="50" width="620" height="260" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="520" y="50" width="620" height="36" rx="12" fill="#161b22"/>
+  <rect x="520" y="74" width="620" height="12" fill="#161b22"/>
+  <circle cx="545" cy="68" r="7" fill="#ff5f56"/>
+  <circle cx="567" cy="68" r="7" fill="#ffbd2e"/>
+  <circle cx="589" cy="68" r="7" fill="#27c93f"/>
+  <text x="830" y="73" fill="#8b949e" font-size="15" text-anchor="middle">sajan@nsut: ~</text>
+
+  <g font-size="19">
+    <text x="545" y="125" fill="#2ee59d">$ <tspan fill="#e6edf3">whoami</tspan></text>
+    <text x="545" y="152" fill="#79c0ff">Sajan Kamboj — ECE (IoT) @ NSUT</text>
+    <text x="545" y="190" fill="#2ee59d">$ <tspan fill="#e6edf3">cat stack.txt</tspan></text>
+    <text x="545" y="217" fill="#e6edf3">C++ · TypeScript · Next.js · RAG · Verilog</text>
+    <text x="545" y="255" fill="#2ee59d">$ <tspan fill="#e6edf3">./compete --leetcode --codeforces</tspan></text>
+    <text x="545" y="282" fill="#ffa657">Knight 2041 · Specialist<tspan fill="#e6edf3"> </tspan></text>
+  </g>
+  <!-- blinking cursor -->
+  <rect x="822" y="267" width="11" height="20" fill="#e6edf3">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
