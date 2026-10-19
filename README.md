@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-Knight%202041-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://codeforces.com/profile/YOUR-CODEFORCES"><img src="https://img.shields.io/badge/Codeforces-Specialist%201437-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://www.codechef.com/users/YOUR-CODECHEF"><img src="https://img.shields.io/badge/CodeChef-1626-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/Sajan__kamboj/"><img src="https://img.shields.io/badge/LeetCode-Knight%202041-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/kambojsajan646"><img src="https://img.shields.io/badge/Codeforces-Specialist%201442-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.codechef.com/users/mysterious_98"><img src="https://img.shields.io/badge/CodeChef-1626-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="mailto:kambojsajan646@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=kamboj-sajan&style=flat-square&color=blue&label=views" alt="profile views"/>
 </p>
 
@@ -51,7 +51,7 @@ I build AI-powered web apps with Next.js, Node.js and PostgreSQL, and solder the
 ## Achievements
 
 - **LeetCode Knight** — peak 2041, top 3% globally · 750+ problems solved
-- **Codeforces Specialist** (peak 1437) · **CodeChef** max rating 1626
+- **Codeforces Specialist** (peak 1442) · **CodeChef** max rating 1626
 - Selected in the **Top 700** for the **Ericsson Edge Academia Program 2.0** (5G, AI, IoT, Telecom)
 - **National Finalist**, TVS Credit E.P.I.C 7.0 Challenge
 - **Google Cloud Gen AI Academy APAC 2026** — built and deployed AI agents on Cloud Run
