@@ -110,5 +110,9 @@ I build AI-powered web apps with Next.js, Node.js and PostgreSQL, and solder the
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamboj-sajan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamboj-sajan/kamboj-sajan/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamboj-sajan/kamboj-sajan/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/kamboj-sajan/kamboj-sajan/output/github-snake-dark.svg" alt="" width="95%"/>
+  </picture>
 </p>
