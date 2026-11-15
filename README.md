@@ -4,8 +4,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=22&duration=2600&pause=1400&color=D7E2EA&center=true&vCenter=true&width=720&lines=LeetCode+Knight+%C2%B7+Codeforces+Specialist;Ericsson+Edge+Academia+2.0+%C2%B7+Top+700;National+finalist+%C2%B7+TVS+Credit+E.P.I.C+7.0;Building+AI+agents%2C+RAG+apps+and+cloud+IDEs"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=22&duration=2600&pause=1400&color=0C0C0C&center=true&vCenter=true&width=720&lines=LeetCode+Knight+%C2%B7+Codeforces+Specialist;Ericsson+Edge+Academia+2.0+%C2%B7+Top+700;National+finalist+%C2%B7+TVS+Credit+E.P.I.C+7.0;Building+AI+agents%2C+RAG+apps+and+cloud+IDEs" alt="LeetCode Knight · Codeforces Specialist · Ericsson Edge Academia 2.0 Top 700 · National finalist, TVS Credit E.P.I.C 7.0"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=22&duration=2600&pause=1400&color=D7E2EA&center=true&vCenter=true&width=720&lines=LeetCode+Knight+%C2%B7+Codeforces+Specialist;Ericsson+Edge+Academia+2.0+%C2%B7+Top+700;National+finalist+%C2%B7+TVS+Credit+E.P.I.C+7.0;Building+AI+agents%2C+RAG+apps+and+cloud+IDEs;Payment+systems+in+Go+that+survive+crashes+and+retries"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=22&duration=2600&pause=1400&color=0C0C0C&center=true&vCenter=true&width=720&lines=LeetCode+Knight+%C2%B7+Codeforces+Specialist;Ericsson+Edge+Academia+2.0+%C2%B7+Top+700;National+finalist+%C2%B7+TVS+Credit+E.P.I.C+7.0;Building+AI+agents%2C+RAG+apps+and+cloud+IDEs;Payment+systems+in+Go+that+survive+crashes+and+retries" alt="LeetCode Knight · Codeforces Specialist · Ericsson Edge Academia 2.0 Top 700 · National finalist, TVS Credit E.P.I.C 7.0 · Payment systems in Go that survive crashes and retries"/>
   </picture>
 </p>
 
@@ -21,7 +21,7 @@
 
 Electronics & Communication (IoT) undergrad at **Netaji Subhas University of Technology, Delhi** (class of 2027).
 
-I build AI-powered web apps with Next.js, Node.js and PostgreSQL, and solder the occasional board on the side. So far I've been stonewalled by a Div 2 D at 2 a.m., talked into a wrong answer by my own RAG pipeline, and out-argued by an 865 MHz signal chain. Two of three eventually lost.
+I build AI-powered web apps with Next.js, Node.js and PostgreSQL, backends in Go that stay correct when a process dies mid-write, and solder the occasional board on the side. So far I've been stonewalled by a Div 2 D at 2 a.m., talked into a wrong answer by my own RAG pipeline, and out-argued by an 865 MHz signal chain. Two of three eventually lost.
 
 **[→ Everything I've built, on my portfolio](https://portfolio-seven-zeta-lxq62pv9m1.vercel.app)**
 
@@ -42,6 +42,21 @@ I build AI-powered web apps with Next.js, Node.js and PostgreSQL, and solder the
 ## Featured projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kamboj-sajan/Ledgerline"><img src="./assets/projects/ledgerline.webp" alt="Ledgerline: 0 double charges, 100+ SIGKILLs per chaos run, 3M property-tested operations"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kamboj-sajan/Ledgerline">Ledgerline</a></h3>
+      Payments API and double-entry ledger built to stay correct under races, retries and crashes. Postgres itself rejects unbalanced entries, every POST is idempotent (including the card-network call), and webhooks go out through a transactional outbox.
+      <br/><br/>
+      Proven by a chaos suite that SIGKILLs the services 100+ times per run, 100-goroutine race tests and 3M property-tested operations. k6 load tests found the breaking point and a real concurrency bug.
+      <br/><br/>
+      <code>Go</code> <code>PostgreSQL</code> <code>pgx</code> <code>testcontainers</code> <code>k6</code> <code>Docker</code>
+      <br/><br/>
+      <a href="https://github.com/kamboj-sajan/Ledgerline"><b>Code + demo</b></a> · <a href="https://github.com/kamboj-sajan/Ledgerline/tree/main/docs/adr">Design decisions</a> · <a href="https://github.com/kamboj-sajan/Ledgerline/blob/main/docs/benchmarks.md">Benchmarks</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://main.dx6zgy1knro1d.amplifyapp.com"><img src="./assets/projects/afterpass.webp" alt="AfterPass map: burn scars across Punjab and the smoke forecast drifting towards Delhi"/></a>
@@ -130,6 +145,7 @@ I build AI-powered web apps with Next.js, Node.js and PostgreSQL, and solder the
 
 **Languages**<br/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -167,6 +183,7 @@ I build AI-powered web apps with Next.js, Node.js and PostgreSQL, and solder the
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"/>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
@@ -179,10 +196,6 @@ I build AI-powered web apps with Next.js, Node.js and PostgreSQL, and solder the
 ---
 
 ## Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamboj-sajan&layout=compact&langs_count=6&hide_border=true&border_radius=16&bg_color=0C0C0C&title_color=D7E2EA&text_color=BBCCD7" alt="Most used languages: JavaScript, TypeScript, C++, Python"/>
-</p>
 
 <p align="center">
   <picture>
